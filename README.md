@@ -3,7 +3,7 @@ This was a post graduate program offered through Great Learning in partnership w
 
 In chronological order:
 
-Food Hub Data Analyis - python, foundations.
+Food Hub Data Analyis - Python, foundations.
 1. Solve business problems & deliver actionable insights and business recommendations by performing exploratory data analysis.
 2. Read, explore, manipulate, and visualize data to tell stories using some of the most widely used Python packages, including NumPy, pandas, and seaborn.
 
