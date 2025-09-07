@@ -1,5 +1,5 @@
 # E-portfolio Data Science and Business Analytics program
-Slide presentations for DSBA course were completed from September 2023 to May 2024. This was a post graduate program offered through Great Learning in partnership with University of Texas at Austin, McCombs Business School. Full code notebooks were completed in the summer of 2025, when I practiced my coding fluency and reviewed learning material of the program.
+This was a post graduate program offered through Great Learning in partnership with University of Texas at Austin, McCombs Business School. Slide presentations for DSBA course were completed from September 2023 to May 2024. Full code notebooks were completed in the summer of 2025, when I practiced my coding fluency and reviewed learning material of the program.
 
 In chronological order:
 
