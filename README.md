@@ -10,7 +10,7 @@ Food Hub Data Analyis - Python, foundations.
 
 E-News Express - business statistics.
 1. Evaluate the reliability of a particular business estimate using confidence intervals.
-2. Test hypotheses (assumptions) before putting them into action and committing resources by analyzing data distributions and performing hypothesis testing.
+2. Test hypotheses before putting them into action and committing resources by analyzing data distributions and performing hypothesis testing.
 
 
 ReCell startup - supervised learning, foundations.
