@@ -23,5 +23,10 @@ INN Hotels Group - supervised learning, classification.
 2. Identify factors that will help drive business outcomes based on linear models.
 
 
+Easy Visa - ensemble techniques.
+1. Understand and appreciate the most widely used Ensemble Technique - Bagging, Boosting, and Random Forest.
+2. Focus on problem recognition and build predictive models in the context of business decision-making.
+3. Assess the model performance using different metrics.
+
 
 
