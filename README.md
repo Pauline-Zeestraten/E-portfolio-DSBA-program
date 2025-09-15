@@ -4,39 +4,39 @@ Full code notebooks completed in the summer of 2025, when I practiced my coding 
 
 In chronological order:
 
-Food Hub Data Analyis - Python, foundations.
-1. Solve business problems & deliver actionable insights and business recommendations by performing exploratory data analysis.
-2. Read, explore, manipulate, and visualize data to tell stories using some of the most widely used Python packages, including NumPy, pandas, and seaborn.
+1. Food Hub Data Analyis - Python, foundations.
+   * Solve business problems & deliver actionable insights and business recommendations by performing exploratory data analysis.
+   * Read, explore, manipulate, and visualize data to tell stories using some of the most widely used Python packages, including NumPy,          pandas, and seaborn.
 
 
-E-News Express - business statistics.
-1. Evaluate the reliability of a particular business estimate using confidence intervals.
-2. Test hypotheses before putting them into action and committing resources by analyzing data distributions and performing hypothesis testing.
+2. E-News Express - business statistics.
+   * Evaluate the reliability of a particular business estimate using confidence intervals.
+   * Test hypotheses before putting them into action and committing resources by analyzing data distributions and performing hypothesis          testing.
 
 
-ReCell startup - supervised learning, foundations.
-1. Use statistically validated models to make estimates and forecasts.
-2. Identify factors that will help drive business outcomes based on linear models.
+3. ReCell startup - supervised learning, foundations.
+   * Use statistically validated models to make estimates and forecasts.
+   * Identify factors that will help drive business outcomes based on linear models.
 
 
-INN Hotels Group - supervised learning, classification.
-1. Build, tune, and assess the performance of common classification models (Logistic Regression and Decision Tree).
-2. Identify factors that will help drive business outcomes based on linear models.
+4. INN Hotels Group - supervised learning, classification.
+   * Build, tune, and assess the performance of common classification models (Logistic Regression and Decision Tree).
+   * Identify factors that will help drive business outcomes based on linear models.
 
 
-Easy Visa - ensemble techniques.
-1. Understand and appreciate the most widely used Ensemble Technique - Bagging, Boosting, and Random Forest.
-2. Focus on problem recognition and build predictive models in the context of business decision-making.
-3. Assess the model performance using different metrics.
+5. Easy Visa - ensemble techniques.
+   * Understand and appreciate the most widely used Ensemble Technique - Bagging, Boosting, and Random Forest.
+   * Focus on problem recognition and build predictive models in the context of business decision-making.
+   * Assess the model performance using different metrics.
 
 
-ReneWind - Model Tuning.
-1. Understand how to standardize the model-building process using pipelines.
-2. Optimize the business costs associated with model predictions by performing the following:
-    *  Feature engineering
-    *  Handling imbalanced data
-    *  Regularization to reduce overfitting
-    *  Model hyperparameter tuning
+6. ReneWind - Model Tuning.
+   * Understand how to standardize the model-building process using pipelines.
+   * Optimize the business costs associated with model predictions by performing the following:
+      -  Feature engineering.
+      -  Handling imbalanced data.
+      -  Regularization to reduce overfitting.
+      -  Model hyperparameter tuning.
 
 
 
