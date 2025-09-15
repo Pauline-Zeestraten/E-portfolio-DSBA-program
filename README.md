@@ -1,5 +1,6 @@
 # E-portfolio Data Science and Business Analytics program
-This was a post graduate program offered through Great Learning in partnership with University of Texas at Austin, McCombs Business School. Slide presentations for DSBA course were completed from September 2023 to May 2024. Full code notebooks were completed in the summer of 2025, when I practiced my coding fluency and reviewed learning material of the program.
+This was a post graduate program offered through Great Learning in partnership with University of Texas at Austin, McCombs Business School. Slide presentations for DSBA course were completed from September 2023 to May 2024. 
+Full code notebooks completed in the summer of 2025, when I practiced my coding fluency and reviewed learning material of the program.
 
 In chronological order:
 
@@ -27,6 +28,15 @@ Easy Visa - ensemble techniques.
 1. Understand and appreciate the most widely used Ensemble Technique - Bagging, Boosting, and Random Forest.
 2. Focus on problem recognition and build predictive models in the context of business decision-making.
 3. Assess the model performance using different metrics.
+
+
+ReneWind - Model Tuning.
+1. Understand how to standardize the model-building process using pipelines.
+2. Optimize the business costs associated with model predictions by performing the following:
+    *  Feature engineering
+    *  Handling imbalanced data
+    *  Regularization to reduce overfitting
+    *  Model hyperparameter tuning
 
 
 
