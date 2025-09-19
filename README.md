@@ -6,12 +6,12 @@ In chronological order:
 
 1. Food Hub Data Analyis - Python, foundations.
    * Solve business problems & deliver actionable insights and business recommendations by performing exploratory data analysis.
-   * Read, explore, manipulate, and visualize data to tell stories using some of the most widely used Python packages, including NumPy,          pandas, and seaborn.
+   * Read, explore, manipulate, and visualize data to tell stories using some of the most widely used Python packages, including NumPy,pandas, and seaborn.
 
 
 2. E-News Express - business statistics.
    * Evaluate the reliability of a particular business estimate using confidence intervals.
-   * Test hypotheses before putting them into action and committing resources by analyzing data distributions and performing hypothesis          testing.
+   * Test hypotheses before putting them into action and committing resources by analyzing data distributions and performing hypothesis testing.
 
 
 3. ReCell startup - supervised learning, foundations.
@@ -37,6 +37,10 @@ In chronological order:
       -  Handling imbalanced data.
       -  Regularization to reduce overfitting.
       -  Model hyperparameter tuning.
+    
+7. Trade & Ahead - Unsupervised Learning
+   * Observe the similarities and dissimilarities between data points by identifying patterns and grouping them based on different attributes of the business.
+   * Represent a multivariate data table as a smaller set of variables without losing much of the information.
 
 
 
