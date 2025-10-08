@@ -25,7 +25,7 @@ In chronological order:
 
 
 5. Easy Visa - ensemble techniques.
-   * Understand and appreciate the most widely used Ensemble Technique - Bagging, Boosting, and Random Forest.
+   * Understand and appreciate the most widely used Ensemble Techniques - Bagging, Boosting, and Random Forest.
    * Focus on problem recognition and build predictive models in the context of business decision-making.
    * Assess the model performance using different metrics.
 
